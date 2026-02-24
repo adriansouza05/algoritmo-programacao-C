@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "editor.fontFamily": "JetBrains Mono",
+    "files.associations": {
+        "math.h": "c",
+        "stdlib.h": "c"
+    }
+}
