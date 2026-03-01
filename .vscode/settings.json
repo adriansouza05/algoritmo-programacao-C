@@ -4,5 +4,6 @@
     "files.associations": {
         "math.h": "c",
         "stdlib.h": "c"
-    }
+    },
+    "github.copilot.chat.agent.currentEditorContext.enabled": false
 }
